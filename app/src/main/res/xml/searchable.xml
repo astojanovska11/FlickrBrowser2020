@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <searchable android:label="@string/title_activity_search" android:hint="@string/searchable_hint" xmlns:android="http://schemas.android.com/apk/res/android"
+        android:searchSuggestAuthority="com.example.flickrbrowser2020.provider"/>
+</PreferenceScreen>
